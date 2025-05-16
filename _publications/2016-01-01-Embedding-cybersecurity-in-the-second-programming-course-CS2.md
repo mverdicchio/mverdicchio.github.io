@@ -1,6 +1,7 @@
 ---
 title: "Embedding cybersecurity in the second programming course (CS2)"
 collection: publications
+category: conferences
 permalink: /publication/2016-01-01-Embedding-cybersecurity-in-the-second-programming-course-CS2
 date: 2016-01-01
 venue: 'In the proceedings of Journal of Computing Sciences in Colleges'

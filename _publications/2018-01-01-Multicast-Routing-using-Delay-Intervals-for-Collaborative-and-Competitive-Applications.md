@@ -1,6 +1,7 @@
 ---
 title: "Multicast Routing using Delay Intervals for Collaborative and Competitive Applications"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-Multicast-Routing-using-Delay-Intervals-for-Collaborative-and-Competitive-Applications
 date: 2018-01-01
 venue: 'IEEE Transactions on Communications'

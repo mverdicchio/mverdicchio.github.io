@@ -1,6 +1,7 @@
 ---
 title: "Students&apos; Perception of a Summer Undergraduate Research Experience: Across the Disciplines"
 collection: publications
+category: conferences
 permalink: /publication/2018-01-01-Students-Perception-of-a-Summer-Undergraduate-Research-Experience-Across-the-Disciplines
 date: 2018-01-01
 venue: 'In the proceedings of ASEE Annual Conference &amp; Exposition'

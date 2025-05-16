@@ -1,6 +1,7 @@
 ---
 title: "Learning Contextual Gene Set Interaction Networks of Glioblastoma and Identifying Subtype Specificity"
 collection: publications
+category: conferences
 permalink: /publication/2011-01-01-Learning-Contextual-Gene-Set-Interaction-Networks-of-Glioblastoma-and-Identifying-Subtype-Specificity
 date: 2011-01-01
 venue: 'In the proceedings of Eighth International Workshop on Computational Systems Biology (WCSB 2011)'

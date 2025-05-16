@@ -1,6 +1,7 @@
 ---
 title: "Learning contextual gene set interaction networks of cancer with condition specificity"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-01-01-Learning-contextual-gene-set-interaction-networks-of-cancer-with-condition-specificity
 date: 2013-01-01
 venue: 'BMC genomics'

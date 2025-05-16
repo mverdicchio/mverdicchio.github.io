@@ -1,6 +1,7 @@
 ---
 title: "Context-specific gene regulations in cancer gene expression data"
 collection: publications
+category: conferences
 permalink: /publication/2009-01-01-Context-specific-gene-regulations-in-cancer-gene-expression-data
 date: 2009-01-01
 venue: 'In the proceedings of Biocomputing 2009'

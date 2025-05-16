@@ -1,6 +1,7 @@
 ---
 title: "Generating Multi-Part Autogradable Faded Parsons Problems From Code-Writing Exercises"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Generating-Multi-Part-Autogradable-Faded-Parsons-Problems-From-Code-Writing-Exercises
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1'

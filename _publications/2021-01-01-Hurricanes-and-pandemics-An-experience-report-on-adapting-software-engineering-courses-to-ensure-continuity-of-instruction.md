@@ -1,6 +1,7 @@
 ---
 title: "Hurricanes and pandemics: An experience report on adapting software engineering courses to ensure continuity of instruction"
 collection: publications
+category: conferences
 permalink: /publication/2021-01-01-Hurricanes-and-pandemics-An-experience-report-on-adapting-software-engineering-courses-to-ensure-continuity-of-instruction
 date: 2021-01-01
 venue: 'In the proceedings of Journal of Computing Sciences in Colleges'
