@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: "Brief Biography"
 redirect_from: 
   - /about/
   - /about.html
