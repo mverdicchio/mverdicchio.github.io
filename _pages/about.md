@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Michael Verdicchio, PhD"
 author_profile: true
 redirect_from: 
   - /about/
