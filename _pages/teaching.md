@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
 At The Citadel, I have taught many sections of the following courses since 2011.
 * CSCI 103 Survey of Computer Science 
 * CSCI 110 Microcomputer Applications 
