@@ -23,9 +23,9 @@ repository               : "mverdicchio/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mv.jpg"
-  name             : "Michael Verdicchio"
+  name             : # "Michael Verdicchio"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Charleston, SC, USA"
   employer         : "The Citadel"
   uri              : # URL
