@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Adapting program assessment for the age of generative AI<br />IEEE Engineering Education World Conference (EDUNINE); Virtual",
-    44.4939936,
-    11.3576917
-  ],
-  [
     "Embedding cybersecurity in the second programming course (CS2)<br />Consortium for Computing Sciences in Colleges Southeastern Conference; Furman University",
     34.9257743,
     -82.4385258
@@ -43,11 +38,6 @@ var addressPoints = [
     "Learning Causal Relationships between Genes from Steady State Data: Algorithms, Simulation and Application<br />6th Annual Rocky Mountains Bioinformatics Conference; Snowmass, CO",
     39.3310391,
     -106.9846471
-  ],
-  [
-    "Hurricanes and pandemics: An experience report on adapting software engineering courses to ensure continuity of instruction<br />Consortium for Computing Sciences in Colleges Southeastern Conference; Virtual",
-    44.4939936,
-    11.3576917
   ],
   [
     "An Interactive Environment for Visualizing, Interpreting, and Revising Biological Process Models<br />Research in Computational Molecular Biology (RECOMB); Tucson, AZ",
