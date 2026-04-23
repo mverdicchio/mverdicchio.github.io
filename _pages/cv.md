@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### [Full CV (pdf)](/files/cv2025.pdf)
+### [Full CV (pdf)](/files/cv.pdf)
 
 Education
 ======
@@ -18,8 +18,9 @@ Education
 
 Appointments
 ======
-* 2017-    : Associate Professor (with tenure), The Citadel
+* 2026-    : Professor, The Citadel
 * 2011-    : Affiliate Faculty, College of Charleston
+* 2017-2026: Associate Professor (with tenure), The Citadel
 * 2011-2017: Assistant Professor, The Citadel
 * 2008-2011: Graduate Research Associate, Arizona State University
 * 2008-2011: Faculty Associate, Arizona State University
